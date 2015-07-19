@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Hello KK\Hello KK\bin\Debug\Hello KK.exe
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Hello KK\Hello KK\bin\Debug\Hello KK.pdb
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Hello KK\Hello KK\obj\x86\Debug\Hello KK.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Hello KK\Hello KK\obj\x86\Debug\Hello KK.exe
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Hello KK\Hello KK\obj\x86\Debug\Hello KK.pdb
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Assignment 1A\Hello KK\Hello KK\obj\x86\Debug\Hello KK.exe
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Assignment 1A\Hello KK\Hello KK\obj\x86\Debug\Hello KK.pdb
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Assignment 1A\Hello KK\Hello KK\obj\x86\Debug\Hello KK.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\NO\MATC Semester I\C Sharp\Assignment 1A\Hello KK\Hello KK\obj\x86\Debug\Hello KK.exe
+C:\Users\admin\Desktop\NO\MATC Semester I\C Sharp\Assignment 1A\Hello KK\Hello KK\obj\x86\Debug\Hello KK.pdb

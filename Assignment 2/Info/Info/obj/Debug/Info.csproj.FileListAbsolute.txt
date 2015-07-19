@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2012\Projects\Info\Info\bin\Debug\Info.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Info\Info\bin\Debug\Info.exe
+c:\users\admin\documents\visual studio 2012\Projects\Info\Info\bin\Debug\Info.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.exe
+c:\users\admin\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.pdb
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Assignment 2\Info\Info\bin\Debug\Info.exe.config
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Assignment 2\Info\Info\obj\Debug\Info.exe
+C:\Users\admin\Desktop\MATC Semester I\C Sharp\Assignment 2\Info\Info\obj\Debug\Info.pdb
+C:\Users\admin\Desktop\NO\MATC Semester I\C Sharp\Assignment 2\Info\Info\bin\Debug\Info.exe.config
+C:\Users\admin\Desktop\NO\MATC Semester I\C Sharp\Assignment 2\Info\Info\obj\Debug\Info.exe
+C:\Users\admin\Desktop\NO\MATC Semester I\C Sharp\Assignment 2\Info\Info\obj\Debug\Info.pdb
